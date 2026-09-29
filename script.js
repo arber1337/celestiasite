@@ -26,9 +26,9 @@
   const hero = $('.hero'), heroImg = $('.hero-image'), progress = $('.progress');
   let framePending = false;
   const updateScroll = () => {
-    const y = window.scrollY, max = document.documentElement.scrollHeight - window.innerHeight;
+    const y = window.scrollY, max = document.documentElement.scrollHeight - window.innerHeight, heroHeight = hero.offsetHeight;
     progress.style.transform = `scaleX(${max > 0 ? Math.min(1, y / max) : 0})`;
-    if (!reduced.matches && y < hero.offsetHeight + window.innerHeight) heroImg.style.translate = `0 ${Math.min(y * 0.17, 180)}px`;
+    if (!reduced.matches && y < heroHeight + window.innerHeight) heroImg.style.translate = `0 ${Math.min(y * 0.17, 180)}px`;
     framePending = false;
   };
   window.addEventListener('scroll', () => { if (!framePending) { framePending = true; requestAnimationFrame(updateScroll); } }, { passive: true });
