@@ -1,26 +1,28 @@
-# Celestia.arch
+# Celestia Architects
 
-Professional English website for Celestia Architects, Tirana.
+Responsive static architecture-studio website hosted on GitHub Pages.
 
-## Live website
+Live: https://arber1337.github.io/celestiasite/
 
-https://arber1337.github.io/celestiasite/
+## Pages
+- English landing: index.html
+- Albanian landing: shqip.html
+- Albanian service guides: interior-design-tirane.html, projektim-vilash.html, rikonstruksion-apartamenti.html, leje-ndertimi-rikonstruksioni.html
+- Terms and Privacy: terms.html, privacy.html
+- Sitemap: sitemap.xml
+- Custom error page: 404.html
 
-## Run locally
+## Running locally
+Run `python3 -m http.server 8000` in this directory, then visit http://localhost:8000.
+No build step or runtime dependencies. GitHub Pages publishes main, repository root.
 
-Run `python3 -m http.server 8000` in this folder, then open http://localhost:8000. No build or dependency installation is needed.
+## Maintenance
+Keep fees, contact information, scope and legal text current. Update canonical URLs, hreflang, JSON-LD, navigation and sitemap together if moving to a custom domain. Submit the full sitemap URL in Google Search Console; a sitemap is a discovery aid and does not guarantee indexing or ranking. Project-site robots.txt cannot control crawling for the host origin.
 
-## GitHub Pages
+The reference-image gallery is design inspiration by third-party creators, not Celestia project work. Source credits appear with each image. Sources and license:
+- studioagb, Milano / Laura Adai: https://unsplash.com/photos/a-living-room-with-a-couch-a-table-and-a-tv-3EariUCKobw
+- Brian Zajac: https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-kitchen-4LngtXlsjJs
+- Salman Saqib Architects / SD Studio: https://unsplash.com/photos/a-rendering-of-a-modern-house-with-a-patio-b7CZPHVtNoc
+- https://unsplash.com/license
 
-Settings → Pages → Deploy from a branch → main → / (root).
-
-## Edit
-
-- `index.html`: studio, portfolio, service rates and contacts.
-- `styles.css`: responsive visual design and animations.
-- `script.js`: navigation, project dialog, scroll effects and estimates.
-- `logo.webp` and `residence.jpg`: supplied brand logo and residential concept visualization.
-
-Technical plans from €5/m²; interiors €15–20/m²; turnkey renovation from €190/m². Other services are quoted individually. Estimates are indicative; visitors choose whether to send their prefilled WhatsApp message.
-
-The featured residential image is labeled as a design concept. Reduced-motion preferences are supported.
+Google Fonts are self-hosted; see font-licenses.txt for OFL notices. Displayed images use local responsive WebP variants. No third-party analytics, advertising pixels or backend form is installed. WhatsApp opens a draft message; sending is controlled by the visitor.
