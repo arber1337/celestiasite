@@ -30,3 +30,4 @@
 @media(prefers-reduced-motion:reduce){.spotlight:before,.live-indicator i:after,.floating-dot:after{animation:none}.floating-estimate,.portfolio-image img{transition:none}}
 /* Keep area validation readable within the price card. */
 #estimate-output.invalid-estimate { font-size: clamp(24px, 3vw, 32px); line-height: 1.2; }
+[hidden] { display: none !important; }
