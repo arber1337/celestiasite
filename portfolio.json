@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "projects": [
+    {
+      "id": "contemporary-residence",
+      "title": "The contemporary residence",
+      "titleSq": "Banesa bashkëkohore",
+      "description": "A residential concept by Celestia Architects. Generous glazing, shaded terraces and a restrained material palette create a calm relationship between inside and outside. This is a design visualization, not a photograph of completed construction.",
+      "descriptionSq": "Një koncept rezidencial nga Celestia Architects. Xhami, tarracat e mbrojtura dhe materialet e përzgjedhura krijojnë një marrëdhënie të qetë mes interiorit dhe exteriorit. Ky është vizualizim projekti, jo fotografi e një ndërtimi të përfunduar.",
+      "location": "",
+      "year": null,
+      "executionYear": null,
+      "execution": "",
+      "category": "architecture",
+      "status": "concept",
+      "cover": 0,
+      "images": [{ "src": "residence-1600.webp", "thumb": "residence-640.webp", "width": 1600, "height": 1200, "alt": "Celestia residential concept with shaded terraces, glazing and landscaping" }]
+    }
+  ]
+}

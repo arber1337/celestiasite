@@ -45,18 +45,30 @@
     const bounds = dialog.getBoundingClientRect();
     if (event.clientX < bounds.left || event.clientX > bounds.right || event.clientY < bounds.top || event.clientY > bounds.bottom) dialog.close();
   });
-  const pricing = { technical: { name: 'Technical plans', low: 5, high: 5, from: true }, interior: { name: 'Interior design', low: 15, high: 20, from: false }, renovation: { name: 'Turnkey renovation', low: 190, high: 190, from: true } };
+  const pricing = { technical: { name: 'Technical plans' }, interior: { name: 'Interior design' }, renovation: { name: 'Turnkey renovation' } };
   const area = $('#area'), service = $('#package'), output = $('#estimate-output'), description = $('#estimate-description');
-  const euro = value => new Intl.NumberFormat('en-IE', { style: 'currency', currency: 'EUR', maximumFractionDigits: 0 }).format(value);
+  const euro = value => new Intl.NumberFormat('en-IE', { style: 'currency', currency: 'EUR', maximumFractionDigits: 2 }).format(value);
   let currentEstimate = '';
   const calculate = () => {
-    if (!area.validity.valid || !area.value || !Number.isFinite(Number(area.value))) { output.textContent = t('Enter a valid area', 'Vendosni një sipërfaqe të vlefshme'); description.textContent = t('Use a whole number between 1 and 100,000 m².', 'Përdorni numër të plotë nga 1 deri në 100,000 m².'); currentEstimate = ''; return; }
-    const size = Number(area.value), rate = pricing[service.value];
-    currentEstimate = rate.low === rate.high ? `${rate.from ? t('From ', 'Nga ') : ''}${euro(size * rate.low)}` : `${euro(size * rate.low)}–${euro(size * rate.high)}`;
+    const estimate = window.CelestiaPricing.estimate(service.value, area.value);
+    output.classList.toggle('invalid-estimate', !area.validity.valid || !area.value || !estimate);
+    if (!area.validity.valid || !area.value || !estimate) { output.textContent = t('Enter a valid area', 'Vendosni një sipërfaqe të vlefshme'); description.textContent = t('Use an area between 1 and 100,000 m² (up to 2 decimal places).', 'Përdorni sipërfaqe nga 1 deri në 100,000 m² (deri në 2 shifra dhjetore).'); currentEstimate = ''; return; }
+    const size = estimate.area;
+    currentEstimate = `${estimate.from ? t('From ', 'Nga ') : ''}${euro(estimate.total)}`;
     output.textContent = currentEstimate;
-    description.textContent = `${size.toLocaleString('en-IE')} m² × €${rate.low}${rate.low !== rate.high ? `–${rate.high}` : ''}/m²`;
+    description.textContent = `${size.toLocaleString('en-IE')} m² × €${estimate.rate}/m²`;
+    const slider = $('#area-slider'); slider.value = String(Math.min(500, Math.max(1, size)));
+    slider.setAttribute('aria-valuetext', `${slider.value} m²`);
+    document.querySelectorAll('[data-interior-rate]').forEach(band => { band.classList.toggle('active', service.value === 'interior' && Number(band.dataset.interiorRate) === estimate.rate); });
+    $('#rate-label').textContent = service.value === 'interior' ? (size < 100 ? t('Small-space rate · under 100 m²', 'Tarifa për sipërfaqe nën 100 m²') : t('Large-space rate · 100 m² and above', 'Tarifa nga 100 m² e lart')) : t('Indicative starting price', 'Çmim orientues fillestar');
+    if (!reduced.matches) output.animate([{ transform: 'translateY(5px)', opacity: 0.65 }, { transform: 'translateY(0)', opacity: 1 }], { duration: 260, easing: 'ease-out' });
   };
   area.addEventListener('input', calculate); service.addEventListener('change', calculate);
+  $('#area-slider').addEventListener('input', event => { area.value = event.target.value; calculate(); });
+  const floatingEstimate = $('.floating-estimate');
+  if ('IntersectionObserver' in window) {
+    new IntersectionObserver(entries => { floatingEstimate.classList.toggle('offscreen', entries[0].isIntersecting); }, { threshold: 0.05 }).observe($('#estimate'));
+  }
   document.querySelectorAll('[data-package]').forEach(link => link.addEventListener('click', () => { service.value = link.dataset.package; calculate(); }));
   $('#estimate-form').addEventListener('submit', event => {
     event.preventDefault(); calculate(); if (!currentEstimate) return;

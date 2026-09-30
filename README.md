@@ -26,3 +26,16 @@ The reference-image gallery is design inspiration by third-party creators, not C
 - https://unsplash.com/license
 
 Google Fonts are self-hosted; see font-licenses.txt for OFL notices. Displayed images use local responsive WebP variants. No third-party analytics, advertising pixels or backend form is installed. WhatsApp opens a draft message; sending is controlled by the visitor.
+
+## Calculator — updated 30 September 2026
+Interior design uses €20/m² for the entire area below 100 m² and €15/m² for the entire area at or above 100 m². Exactly 100 m² is €1,500. Technical plans remain from €5/m² and renovation from €190/m². Decimal areas up to two places are supported.
+
+## Owner portfolio panel
+Open https://arber1337.github.io/celestiasite/admin.html.
+The panel supports multiple images, a chosen cover, English and optional Albanian text, location, project year, category, implementation status, execution year and implementation notes. Existing projects can be edited. The initial residential concept deliberately has no invented location or year; fill these when editing it.
+
+For online publishing, the owner `arber1337` connects a fine-grained GitHub personal access token scoped only to `celestiasite`, with repository Contents read/write permission. Instructions are in the panel. The token is kept only in page memory and used solely with api.github.com; never commit it or share it in chat. The visitor-facing website has no publishing credentials. GitHub enforces repository write permissions.
+
+Images are decoded and optimized to local 1600px/640px variants before publication (JPG/PNG/WebP, up to 12 images per project). One Git commit updates images, portfolio.json and the server-rendered portfolio.html / portfolio-sq.html pages. GitHub Pages then deploys main. The public landing loads the latest portfolio.json with cache revalidation while retaining its original card as a network fallback. A non-force branch update prevents overwriting a concurrent repository edit. If the branch changes, reconnect before publishing the retained draft.
+
+Save draft on device uses IndexedDB for metadata and optimized image blobs. It does not publish or store the connection token. Refreshing or disconnecting requires reconnecting to publish. Published projects are public. Old image files are retained in git rather than permanently removed by the editor.
