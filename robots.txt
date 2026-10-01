@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://celestiasite.vercel.app/sitemap.xml

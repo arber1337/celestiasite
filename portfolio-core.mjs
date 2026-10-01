@@ -1,4 +1,4 @@
-export const BASE = 'https://arber1337.github.io/celestiasite/';
+export const BASE = 'https://celestiasite.vercel.app/';
 export const REPOSITORY = 'arber1337/celestiasite';
 export const VERSION = '20261001-projects1';
 export const STATUSES = { concept: ['Concept design', 'Koncept'], design: ['Design development', 'Projektim'], construction: ['Under construction', 'Në zbatim'], completed: ['Completed', 'Përfunduar'] };
