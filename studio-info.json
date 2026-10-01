@@ -1,0 +1,122 @@
+{
+  "name": "Celestia Architects",
+  "alternateNames": [
+    "Celestia.arch",
+    "Celestia.archi"
+  ],
+  "website": "https://www.celestia.archi/",
+  "updatedAt": "2026-10-01",
+  "languages": [
+    "sq",
+    "en"
+  ],
+  "location": {
+    "city": "Tirana",
+    "country": "Albania"
+  },
+  "team": "Licensed architects / Arkitektë të licencuar",
+  "serviceArea": "Albania",
+  "contact": {
+    "telephone": "+355692787302",
+    "instagram": "https://www.instagram.com/celestia.architects/"
+  },
+  "portfolio": {
+    "albanianUrl": "https://www.celestia.archi/portfolio-sq.html",
+    "englishUrl": "https://www.celestia.archi/portfolio.html",
+    "collectiveLocations": [
+      "Tirana",
+      "Durrës",
+      "Vlorë"
+    ],
+    "note": "Individual project cities and years are not inferred. Renderings do not by themselves establish completed construction."
+  },
+  "services": [
+    {
+      "nameSq": "Projektim interiori në Tiranë",
+      "url": "https://www.celestia.archi/interior-design-tirane.html",
+      "summarySq": "Celestia Architects ofron projektim interiori në Tiranë dhe në Shqipëri: organizim hapësire, planimetri mobilimi, materiale, ndriçim dhe vizualizime 3D, sipas shërbimit të kontraktuar. Çmimi orientues është 20 €/m² nën 100 m² dhe 15 €/m² nga 100 m² e lart, për të gjithë sipërfaqen. Tarifa e projektimit nuk është kosto mobilimi ose punimesh.",
+      "nameEn": "Interior design in Tirana"
+    },
+    {
+      "nameSq": "Projektim vilash në Shqipëri",
+      "url": "https://www.celestia.archi/projektim-vilash.html",
+      "summarySq": "Celestia Architects është studio arkitekture në Tiranë me arkitektë të licencuar. Projektimi i vilave mund të përfshijë analizën e parcelës, konceptin, planimetritë, prerjet, fasadat dhe vizualizimet 3D. Shërbimi dhe dokumentacioni për leje përcaktohen me ofertë të personalizuar; buxheti i ndërtimit trajtohet veçmas.",
+      "nameEn": "Villa architecture in Albania"
+    },
+    {
+      "nameSq": "Rikonstruksion apartamenti",
+      "url": "https://www.celestia.archi/rikonstruksion-apartamenti.html",
+      "summarySq": "Celestia Architects ofron projektim dhe rikonstruksion apartamentesh sipas objektit dhe marrëveshjes. Rikonstruksioni çelësa në dorë fillon nga 190 €/m²; gjendja ekzistuese, materialet dhe përfshirjet ndikojnë në ofertën përfundimtare. Projektimi, punimet dhe dokumentacioni për leje sqarohen përpara fillimit.",
+      "nameEn": "Apartment renovation"
+    },
+    {
+      "nameSq": "Aplikime për leje ndërtimi dhe rikonstruksioni",
+      "url": "https://www.celestia.archi/leje-ndertimi-rikonstruksioni.html",
+      "summarySq": "Celestia Architects, studio në Tiranë me arkitektë të licencuar, ofron projektim arkitektonik, përgatitje dokumentacioni dhe koordinim për aplikime për leje ndërtimi dhe rikonstruksioni në Shqipëri, sipas marrëveshjes. Oferta përcaktohet pasi shqyrtohen objekti, ndërhyrja dhe dokumentet e disponueshme. Vendimi për lejen merret nga autoriteti përgjegjës.",
+      "nameEn": "Building and renovation permit applications"
+    },
+    {
+      "nameSq": "Projektim eksterieri dhe fasadash",
+      "url": "https://www.celestia.archi/projektim-eksterieri-fasada.html",
+      "summarySq": "Celestia Architects projekton eksterierin dhe fasadat e ndërtesave, duke koordinuar volumet, hapjet, materialet dhe lidhjen me hapësirën e jashtme. Projektimi mund të përfshijë koncept, vizualizime dhe detaje arkitektonike sipas marrëveshjes. Çmimi përcaktohet me ofertë të personalizuar pas shqyrtimit të objektit.",
+      "nameEn": "Exterior and façade design"
+    },
+    {
+      "nameSq": "Studio arkitekture në Tiranë",
+      "url": "https://www.celestia.archi/studio-arkitekture-tirane.html",
+      "summarySq": "Celestia Architects është studio arkitekture në Tiranë, Shqipëri, me arkitektë të licencuar. Shërbimet përfshijnë arkitekturë, projektim vilash, interior, eksterier, fasada, rikonstruksion dhe dokumentacion për aplikime për leje. Portofoli përfshin projekte të studios në Tiranë, Durrës dhe Vlorë.",
+      "nameEn": "Architecture studio in Tirana"
+    }
+  ],
+  "pricing": {
+    "currency": "EUR",
+    "interiorDesign": {
+      "unit": "m²",
+      "appliesTo": "entire project area",
+      "bands": [
+        {
+          "areaRule": "area < 100 m²",
+          "euroPerSquareMetre": 20
+        },
+        {
+          "areaRule": "area >= 100 m²",
+          "euroPerSquareMetre": 15
+        }
+      ],
+      "examples": [
+        {
+          "areaSquareMetres": 99,
+          "estimatedEuro": 1980
+        },
+        {
+          "areaSquareMetres": 100,
+          "estimatedEuro": 1500
+        },
+        {
+          "areaSquareMetres": 120,
+          "estimatedEuro": 1800
+        }
+      ]
+    },
+    "technicalPlans": {
+      "startingEuroPerSquareMetre": 5
+    },
+    "turnkeyRenovation": {
+      "startingEuroPerSquareMetre": 190
+    },
+    "architectureExteriorsFacadesPermits": "Custom written proposal",
+    "conditions": "Indicative fees; scope, taxes, exclusions and third-party fees confirmed in writing."
+  },
+  "permits": {
+    "scope": "Architectural design, preparation of documentation and coordination for building and renovation permit applications, as agreed.",
+    "approval": "Decided by the responsible authority; approval is not guaranteed."
+  },
+  "referencePages": [
+    "https://www.celestia.archi/interior-design-tirane.html",
+    "https://www.celestia.archi/projektim-vilash.html",
+    "https://www.celestia.archi/rikonstruksion-apartamenti.html",
+    "https://www.celestia.archi/leje-ndertimi-rikonstruksioni.html",
+    "https://www.celestia.archi/projektim-eksterieri-fasada.html",
+    "https://www.celestia.archi/studio-arkitekture-tirane.html"
+  ]
+}

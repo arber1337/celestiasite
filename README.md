@@ -7,7 +7,7 @@ Live: https://www.celestia.archi/
 ## Pages
 - English landing: en.html
 - Albanian landing: index.html (primary); shqip.html redirects to /
-- Albanian service guides: interior-design-tirane.html, projektim-vilash.html, rikonstruksion-apartamenti.html, leje-ndertimi-rikonstruksioni.html
+- Albanian service guides: interior-design-tirane.html, projektim-vilash.html, rikonstruksion-apartamenti.html, leje-ndertimi-rikonstruksioni.html, projektim-eksterieri-fasada.html, studio-arkitekture-tirane.html
 - Terms and Privacy: terms.html, privacy.html
 - Sitemap: sitemap.xml
 - Crawl instructions: robots.txt
@@ -48,3 +48,6 @@ Mobile performance: the landings embed styles.css to avoid an extra render-block
 
 
 AI/search discoverability: robots.txt explicitly permits OAI-SearchBot and Googlebot while preserving the existing general crawl permission. The Albanian and English landings contain visible, static client answers and a ProfessionalService/Service graph with contact details, location, service scope and the actual interior pricing thresholds. Keep this metadata consistent with displayed content when changing rates or services. There are no extra client-side tracking scripts or AI instructions. No llms.txt file is required for Google Search. Crawl permission and structured data do not guarantee crawling, indexing, citations, recommendations or rankings.
+
+
+Expanded public reference (1 October 2026): six Albanian service guides now cover interiors, villas, renovation, permit applications, exterior/façade design and general architecture. Named search/fetch agents for OpenAI, Google, Bing, Anthropic and Perplexity are allowed; the wildcard preserves access for other agents. studio-info.md and studio-info.json provide public fact exports and llms.txt is an optional reference index for clients that choose to read it, not a Google ranking feature or a universal AI protocol. Update the exports whenever prices, contact or service scope change. HTML is the primary source and sitemap contains canonical HTML pages only. No model instructions, cloaking, tracking scripts, fabricated reviews or guaranteed AI priority are added.
