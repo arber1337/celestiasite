@@ -53,6 +53,17 @@ export function portfolioPage(data, language = 'en') {
 // Updating the branch without force prevents overwriting a concurrent owner edit.
 export async function publishPortfolio({ api, expectedHead, data, assets = [], message = 'Update Celestia portfolio', onProgress = () => {} }) {
   validatePortfolio(data);
+  if (typeof api !== 'function' || !/^[a-f0-9]{40}$/.test(expectedHead)) throw new Error('Invalid publishing session.');
+  if (!Array.isArray(assets) || assets.length > 24) throw new Error('Too many uploaded images.');
+  const referencedImages = new Set(data.projects.flatMap(project => project.images.flatMap(image => [image.src, image.thumb])));
+  const assetPaths = new Set();
+  for (const file of assets) {
+    if (!file || !safeImagePath(file.path) || file.path.length > 200 || !referencedImages.has(file.path) || assetPaths.has(file.path) || file.encoding !== 'base64' || typeof file.content !== 'string' || !file.content || file.content.length > 28 * 1024 * 1024 || file.content.length % 4 || !/^[A-Za-z0-9+/]+={0,2}$/.test(file.content)) throw new Error('Unsupported image upload.');
+    const prefix = atob(file.content.slice(0, 32));
+    const validType = file.path.endsWith('.webp') ? prefix.startsWith('RIFF') && prefix.slice(8, 12) === 'WEBP' : file.path.endsWith('.png') ? prefix.startsWith('\u0089PNG\r\n\u001a\n') : prefix.startsWith('\u00ff\u00d8\u00ff');
+    if (!validType) throw new Error('The image content does not match its file type.');
+    assetPaths.add(file.path);
+  }
   const ref = await api('/git/ref/heads/main');
   if (ref.object.sha !== expectedHead) throw new Error('Repository changed. Reconnect to load the latest projects; your draft is still available.');
   const head = await api('/git/commits/' + expectedHead);
