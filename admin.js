@@ -162,7 +162,7 @@ $('#project-form').addEventListener('submit', async event => {
     const next = { version: 1, projects };
     head = await publishPortfolio({ api, expectedHead: head, data: next, assets, message: 'Publish portfolio project: ' + project.title, onProgress: (done, total) => status('Po publikoj skedarët: ' + done + ' / ' + total + '…') });
     data = next; $('#project-id').value = project.id; images = images.map(({ blobs, ...image }) => image); dirty = false; renderList();
-    status('Projekti u publikua në GitHub. Website-i përditësohet pas përfundimit të GitHub Pages; zakonisht kërkon pak minuta.');
+    status('Projekti u publikua në GitHub. Vercel e përditëson website-in automatikisht pas përfundimit të deploy-it; zakonisht kërkon pak minuta.');
     const link = document.createElement('a'); link.href = BASE + 'portfolio.html#project-' + project.id; link.target = '_blank'; link.rel = 'noopener'; link.textContent = ' Shiko projektin ↗'; $('#admin-status').append(link);
   } catch (error) { status(error.message || 'Publikimi dështoi. Drafti juaj mbetet këtu; ruajeni në pajisje përpara se të dilni.', true); }
   finally { setBusy(false); }

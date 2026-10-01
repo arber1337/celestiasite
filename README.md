@@ -15,7 +15,7 @@ Live: https://celestiasite.vercel.app/
 
 ## Running locally
 Run `python3 -m http.server 8000` in this directory, then visit http://localhost:8000.
-No build step or runtime dependencies. GitHub Pages publishes main, repository root.
+No build step or runtime dependencies. Vercel publishes `main` from the repository root; GitHub Pages also publishes a secondary copy.
 
 ## Vercel deployment
 Import `arber1337/celestiasite` with the repository root as the root directory and `main` as the production branch. `vercel.json` configures this as a static site: no installation, no build command, and output from the repository root. Existing `.html` URLs are preserved.
