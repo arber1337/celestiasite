@@ -3,18 +3,121 @@
   "projects": [
     {
       "id": "contemporary-residence",
-      "title": "The contemporary residence",
-      "titleSq": "Banesa bashkëkohore",
-      "description": "A residential concept by Celestia Architects. Generous glazing, shaded terraces and a restrained material palette create a calm relationship between inside and outside. This is a design visualization, not a photograph of completed construction.",
-      "descriptionSq": "Një koncept rezidencial nga Celestia Architects. Xhami, tarracat e mbrojtura dhe materialet e përzgjedhura krijojnë një marrëdhënie të qetë mes interiorit dhe exteriorit. Ky është vizualizim projekti, jo fotografi e një ndërtimi të përfunduar.",
-      "location": "",
+      "title": "Four villas. One architectural rhythm.",
+      "titleSq": "Katër vila. Një ritëm arkitektonik.",
+      "description": "A residential project by Celestia Architects. Four two-storey villas form a coherent street frontage, with integrated covered parking, private gardens and generous terraces. Timber accents and landscaped boundaries bring warmth to the clear architectural geometry. The gallery presents aerial and street-level architectural visualizations.",
+      "descriptionSq": "Një projekt rezidencial nga Celestia Architects. Katër vila dykatëshe krijojnë një front të unifikuar, me parkim të mbuluar të integruar, oborre private dhe tarraca. Detajet e drurit dhe gjelbërimi i japin ngrohtësi gjeometrisë arkitektonike. Galeria paraqet vizualizime ajrore dhe pamje nga rruga.",
+      "location": "Albania",
       "year": null,
       "executionYear": null,
-      "execution": "",
+      "execution": "Architectural design and visualization by Celestia Architects.",
       "category": "architecture",
-      "status": "concept",
+      "status": "design",
       "cover": 0,
-      "images": [{ "src": "residence-1600.webp", "thumb": "residence-640.webp", "width": 1600, "height": 1200, "alt": "Celestia residential concept with shaded terraces, glazing and landscaping" }]
+      "images": [
+        {
+          "src": "portfolio-img-villas-aerial-1600.webp",
+          "thumb": "portfolio-img-villas-aerial-640.webp",
+          "width": 1536,
+          "height": 768,
+          "alt": "Aerial visualization of four contemporary villas with private gardens and integrated parking by Celestia Architects"
+        },
+        {
+          "src": "portfolio-img-villas-views-1600.webp",
+          "thumb": "portfolio-img-villas-views-640.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Four-villa residential development: aerial, street and façade views by Celestia Architects"
+        }
+      ]
+    },
+    {
+      "id": "warm-minimal-interior",
+      "title": "A home in warm neutrals.",
+      "titleSq": "Një banesë me tone të ngrohta.",
+      "description": "An interior project by Celestia Architects, composed around natural timber, soft neutral tones and carefully placed light. Curved seating and sculptural pendants define the living and dining spaces, while full-height mirrors and restrained bathroom details continue the material language throughout the home. The gallery follows the design from the entrance to the living spaces and bathrooms.",
+      "descriptionSq": "Një projekt interiori nga Celestia Architects, me dru natyral, tone neutrale dhe ndriçim të menduar në detaj. Mobilimi me forma të buta dhe ndriçuesit skulpturorë përcaktojnë zonën e ditës dhe të ngrënies. Pasqyrat e larta dhe detajet e banjove vazhdojnë të njëjtën gjuhë materialesh. Galeria ndjek projektin nga hyrja te hapësirat e banimit dhe banjot.",
+      "location": "Albania",
+      "year": null,
+      "executionYear": null,
+      "execution": "Architectural design and visualization by Celestia Architects.",
+      "category": "interior",
+      "status": "design",
+      "cover": 0,
+      "images": [
+        {
+          "src": "portfolio-img-interior-living-1600.webp",
+          "thumb": "portfolio-img-interior-living-640.webp",
+          "width": 1299,
+          "height": 1536,
+          "alt": "Neutral living room with curved seating, timber coffee tables and an open kitchen by Celestia Architects"
+        },
+        {
+          "src": "portfolio-img-interior-dining-1600.webp",
+          "thumb": "portfolio-img-interior-dining-640.webp",
+          "width": 1299,
+          "height": 1536,
+          "alt": "Contemporary dining room with sculptural pendant lighting and warm neutral materials by Celestia Architects"
+        },
+        {
+          "src": "portfolio-img-interior-entry-1600.webp",
+          "thumb": "portfolio-img-interior-entry-640.webp",
+          "width": 1299,
+          "height": 1536,
+          "alt": "Warm wood entrance hall with full-height mirror and sculptural lighting by Celestia Architects"
+        },
+        {
+          "src": "portfolio-img-interior-transition-1600.webp",
+          "thumb": "portfolio-img-interior-transition-640.webp",
+          "width": 1299,
+          "height": 1536,
+          "alt": "Interior transition from the entrance hall to a contemporary dining area by Celestia Architects"
+        },
+        {
+          "src": "portfolio-img-interior-door-1600.webp",
+          "thumb": "portfolio-img-interior-door-640.webp",
+          "width": 1299,
+          "height": 1536,
+          "alt": "Timber entrance door, mirror and minimalist console by Celestia Architects"
+        },
+        {
+          "src": "portfolio-img-interior-vanity-1600.webp",
+          "thumb": "portfolio-img-interior-vanity-640.webp",
+          "width": 1299,
+          "height": 1536,
+          "alt": "Contemporary bathroom vanity with illuminated mirror and neutral finishes by Celestia Architects"
+        },
+        {
+          "src": "portfolio-img-interior-bathroom-1600.webp",
+          "thumb": "portfolio-img-interior-bathroom-640.webp",
+          "width": 1299,
+          "height": 1536,
+          "alt": "Minimal bathroom with wall-hung toilet and textured shower screen by Celestia Architects"
+        }
+      ]
+    },
+    {
+      "id": "classic-kitchen",
+      "title": "Classic detail. Contemporary living.",
+      "titleSq": "Detaje klasike. Jetesa bashkëkohore.",
+      "description": "A kitchen design by Celestia Architects that pairs burgundy cabinetry with light finishes, a central island and decorative ceiling details. A statement chandelier and a considered mix of textures give the room its character, balancing traditional references with a practical contemporary layout.",
+      "descriptionSq": "Një projekt kuzhine nga Celestia Architects që ndërthur mobilimin në ngjyrë bordo me përfundime të çelëta, ishullin qendror dhe detajet dekorative të tavanit. Ndriçuesi i varur dhe kombinimi i teksturave i japin karakter hapësirës, duke bashkuar referencat klasike me një organizim bashkëkohor.",
+      "location": "Albania",
+      "year": null,
+      "executionYear": null,
+      "execution": "Architectural design and visualization by Celestia Architects.",
+      "category": "interior",
+      "status": "design",
+      "cover": 0,
+      "images": [
+        {
+          "src": "portfolio-img-classic-kitchen-1600.webp",
+          "thumb": "portfolio-img-classic-kitchen-640.webp",
+          "width": 1348,
+          "height": 1536,
+          "alt": "Classic-inspired kitchen with burgundy cabinetry, an island and decorative ceiling details by Celestia Architects"
+        }
+      ]
     }
   ]
 }
