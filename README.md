@@ -16,6 +16,11 @@ Live: https://arber1337.github.io/celestiasite/
 Run `python3 -m http.server 8000` in this directory, then visit http://localhost:8000.
 No build step or runtime dependencies. GitHub Pages publishes main, repository root.
 
+## Vercel deployment
+Import `arber1337/celestiasite` with the repository root as the root directory and `main` as the production branch. `vercel.json` configures this as a static site: no installation, no build command, and output from the repository root. Existing `.html` URLs are preserved.
+
+Vercel publication is pending account connection. After Vercel assigns the production domain, update all canonical URLs, hreflang URLs, Open Graph URLs, JSON-LD URLs, sitemap entries and `BASE` in `portfolio-core.mjs` together. Add a root `robots.txt` pointing to that production sitemap. Keep GitHub integration enabled so the owner panel's commits deploy automatically. Verify the production URL, image assets, price calculator, portfolio pages and owner panel before announcing the new site as live.
+
 ## Maintenance
 Keep fees, contact information, scope and legal text current. Update canonical URLs, hreflang, JSON-LD, navigation and sitemap together if moving to a custom domain. Submit the full sitemap URL in Google Search Console; a sitemap is a discovery aid and does not guarantee indexing or ranking. Project-site robots.txt cannot control crawling for the host origin.
 
