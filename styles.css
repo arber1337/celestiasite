@@ -41,3 +41,6 @@
 
 /* Full-height picture preserves the hero crop with responsive AVIF sources. */
 .hero-image picture{display:block;width:100%;height:100%}
+
+/* Crawlable client answers: native HTML, with no extra scripts or assets. */
+.studio-answers{border-top:1px solid var(--line)}.studio-answers h2{margin-bottom:48px}.studio-answer-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:36px 60px}.studio-answer{border-top:1px solid var(--line);padding-top:24px;min-width:0}.studio-answer h3{font-size:clamp(21px,2vw,28px);line-height:1.35;font-weight:400;letter-spacing:-.025em;margin:0 0 16px}.studio-answer p{font-size:15px;line-height:1.8;color:var(--muted);margin:0}.studio-answer-links{display:flex;flex-wrap:wrap;gap:18px 44px;margin-top:40px}.studio-answer-links a{font-size:14px;border-bottom:1px solid var(--ink);padding:12px 0;min-height:44px}.studio-answer-links a:focus-visible{outline:2px solid var(--ink);outline-offset:6px}@media(max-width:760px){.studio-answer-list{grid-template-columns:1fr;gap:28px}.studio-answers h2{margin-bottom:32px}}

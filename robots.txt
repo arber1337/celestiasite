@@ -1,4 +1,13 @@
+# Public content is available to search engines and AI search crawlers.
 User-agent: *
+Allow: /
+
+# ChatGPT Search discovery; this is independent of model training.
+User-agent: OAI-SearchBot
+Allow: /
+
+# Google Search, including its generative AI search features.
+User-agent: Googlebot
 Allow: /
 
 Sitemap: https://www.celestia.archi/sitemap.xml
