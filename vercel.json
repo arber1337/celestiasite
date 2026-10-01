@@ -4,5 +4,28 @@
   "buildCommand": "",
   "installCommand": "",
   "outputDirectory": ".",
-  "cleanUrls": false
+  "cleanUrls": false,
+  "redirects": [
+    {
+      "source": "/index.html",
+      "destination": "https://www.celestia.archi/",
+      "permanent": true
+    },
+    {
+      "source": "/shqip.html",
+      "destination": "https://www.celestia.archi/",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "celestiasite.vercel.app"
+        }
+      ],
+      "destination": "https://www.celestia.archi/:path*",
+      "permanent": true
+    }
+  ]
 }

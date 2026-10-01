@@ -1,2 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://celestiasite.vercel.app/</loc><lastmod>2026-10-01</lastmod><xhtml:link rel="alternate" hreflang="en" href="https://celestiasite.vercel.app/"/><xhtml:link rel="alternate" hreflang="sq-AL" href="https://celestiasite.vercel.app/shqip.html"/><xhtml:link rel="alternate" hreflang="x-default" href="https://celestiasite.vercel.app/"/></url><url><loc>https://celestiasite.vercel.app/shqip.html</loc><lastmod>2026-10-01</lastmod><xhtml:link rel="alternate" hreflang="en" href="https://celestiasite.vercel.app/"/><xhtml:link rel="alternate" hreflang="sq-AL" href="https://celestiasite.vercel.app/shqip.html"/><xhtml:link rel="alternate" hreflang="x-default" href="https://celestiasite.vercel.app/"/></url><url><loc>https://celestiasite.vercel.app/interior-design-tirane.html</loc><lastmod>2026-10-01</lastmod></url><url><loc>https://celestiasite.vercel.app/projektim-vilash.html</loc><lastmod>2026-10-01</lastmod></url><url><loc>https://celestiasite.vercel.app/rikonstruksion-apartamenti.html</loc><lastmod>2026-10-01</lastmod></url><url><loc>https://celestiasite.vercel.app/leje-ndertimi-rikonstruksioni.html</loc><lastmod>2026-10-01</lastmod></url><url><loc>https://celestiasite.vercel.app/terms.html</loc><lastmod>2026-10-01</lastmod></url><url><loc>https://celestiasite.vercel.app/privacy.html</loc><lastmod>2026-10-01</lastmod></url><url><loc>https://celestiasite.vercel.app/portfolio.html</loc><lastmod>2026-10-01</lastmod></url><url><loc>https://celestiasite.vercel.app/portfolio-sq.html</loc><lastmod>2026-10-01</lastmod></url></urlset>
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.celestia.archi/</loc>
+    <lastmod>2026-10-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="sq-AL" href="https://www.celestia.archi/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.celestia.archi/en.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.celestia.archi/" />
+  </url>
+  <url>
+    <loc>https://www.celestia.archi/en.html</loc>
+    <lastmod>2026-10-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="sq-AL" href="https://www.celestia.archi/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.celestia.archi/en.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.celestia.archi/" />
+  </url>
+  <url>
+    <loc>https://www.celestia.archi/interior-design-tirane.html</loc>
+    <lastmod>2026-10-01</lastmod>
+  </url>
+  <url>
+    <loc>https://www.celestia.archi/projektim-vilash.html</loc>
+    <lastmod>2026-10-01</lastmod>
+  </url>
+  <url>
+    <loc>https://www.celestia.archi/rikonstruksion-apartamenti.html</loc>
+    <lastmod>2026-10-01</lastmod>
+  </url>
+  <url>
+    <loc>https://www.celestia.archi/leje-ndertimi-rikonstruksioni.html</loc>
+    <lastmod>2026-10-01</lastmod>
+  </url>
+  <url>
+    <loc>https://www.celestia.archi/terms.html</loc>
+    <lastmod>2026-10-01</lastmod>
+  </url>
+  <url>
+    <loc>https://www.celestia.archi/privacy.html</loc>
+    <lastmod>2026-10-01</lastmod>
+  </url>
+  <url>
+    <loc>https://www.celestia.archi/portfolio.html</loc>
+    <lastmod>2026-10-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="sq-AL" href="https://www.celestia.archi/portfolio-sq.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.celestia.archi/portfolio.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.celestia.archi/portfolio-sq.html" />
+  </url>
+  <url>
+    <loc>https://www.celestia.archi/portfolio-sq.html</loc>
+    <lastmod>2026-10-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="sq-AL" href="https://www.celestia.archi/portfolio-sq.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.celestia.archi/portfolio.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.celestia.archi/portfolio-sq.html" />
+  </url>
+</urlset>
