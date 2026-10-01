@@ -43,3 +43,5 @@ Images are decoded and optimized to local 1600px/640px variants before publicati
 Save draft on device uses IndexedDB for metadata and optimized image blobs. It does not publish or store the connection token. Refreshing or disconnecting requires reconnecting to publish. Published projects are public. Old image files are retained in git rather than permanently removed by the editor.
 
 Custom domain: www.celestia.archi is canonical; celestia.archi redirects to www. The homepage is Albanian; en.html preserves English. The former Vercel hostname and language aliases permanently redirect. Google verification meta tag and the public IndexNow key file must remain published.
+
+Mobile performance: the landings embed styles.css to avoid an extra render-blocking request. After editing styles.css run `node sync-home-styles.mjs` before committing the three landing pages. The hero uses responsive AVIF with WebP fallback, critical WOFF2 fonts are preloaded, and portfolio updates load when its cards approach the viewport. Full-resolution portfolio artwork remains available.
