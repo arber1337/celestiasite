@@ -28,4 +28,14 @@ Allow: /
 User-agent: Perplexity-User
 Allow: /
 
+# Explicit permissions requested by the website owner.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
 Sitemap: https://www.celestia.archi/sitemap.xml

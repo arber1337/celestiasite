@@ -22,6 +22,12 @@ Indicative fees. Design fees do not include furniture, materials or construction
 
 Celestia Architects offers architectural design, documentation preparation and coordination for permit applications as agreed. The property, proposed intervention and available documentation are reviewed before the scope and fee are defined. Approval is decided by the responsible authority and is not guaranteed. Supervision is included only when expressly agreed.
 
+## Dokumentacion për rikonstruksion në Shqipëri
+
+Për deklaratë paraprake: formulari elektronik dhe, sipas rastit, dokumenti i pronësisë ose i së drejtës së ligjshme dhe projekti teknik i firmosur nga projektues të licencuar (neni 8). Për leje ndërtimi: kërkesa, të drejtat pasurore, gen-plani, projekti arkitektonik dhe relacioni, bashkë me dokumentet e tjera për kategorinë konkrete (neni 15). Mirëmbajtja e nenit 6 mund të përjashtohet; punimet e nenit 7 kërkojnë deklaratë. Rastet e veçanta verifikohen me autoritetin.
+
+[Udhëzimi në shqip: dokumentet, procedurat, hapat dhe burimet zyrtare](https://www.celestia.archi/leje-ndertimi-rikonstruksioni.html#dokumentet-rikonstruksion). Konsultuar më 1 tetor 2026. Përmbledhje orientuese, jo konfirmim për një rast individual.
+
 ## Portfolio
 
 Studio projects collectively include Tirana, Durrës and Vlorë. Individual city assignments and project years should be taken from each published project rather than inferred. Renderings do not by themselves establish completed construction.

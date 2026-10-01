@@ -109,7 +109,25 @@
   },
   "permits": {
     "scope": "Architectural design, preparation of documentation and coordination for building and renovation permit applications, as agreed.",
-    "approval": "Decided by the responsible authority; approval is not guaranteed."
+    "approval": "Decided by the responsible authority; approval is not guaranteed.",
+    "publicGuide": {
+      "language": "sq",
+      "url": "https://www.celestia.archi/leje-ndertimi-rikonstruksioni.html#dokumentet-rikonstruksion",
+      "reviewedAt": "2026-10-01",
+      "declarationDocumentsSq": [
+        "Formulari i deklaratës në sistemin elektronik; sipas rastit, dokumenti i pronësisë ose të drejtës së ligjshme dhe projekti teknik i firmosur nga projektues të licencuar (neni 8)."
+      ],
+      "buildingPermitDocumentsSq": [
+        "Kërkesa elektronike dhe të drejtat pasurore; planvendosja mbi hartën ekzistuese (gen-plan); projekti i plotë arkitektonik dhe relacioni; disiplinat, preventivi, grafiku, deklaratat, tarifat, sigurimi dhe miratimet që kërkohen për kategorinë konkrete (neni 15)."
+      ],
+      "procedureSq": "Mirëmbajtja e zakonshme e nenit 6 mund të përjashtohet nga leja dhe deklarata. Punimet e nenit 7 trajtohen me deklaratë paraprake. Punimet jashtë përjashtimeve shqyrtohen për leje; rastet rurale, zonat dhe objektet e mbrojtura kanë rregulla të veçanta.",
+      "noteSq": "Përmbledhje orientuese; lista dhe procedura konfirmohen sipas akteve në fuqi dhe autoritetit përgjegjës. Nuk garantohet miratimi.",
+      "officialSources": [
+        "https://azht.gov.al/wp-content/uploads/2026/01/VKM-Nr.408-date-13.05.2015-Per-miratimin-e-rregullores-se-zhvillimit-te-territorit-i-perditesuar.pdf",
+        "https://azht.gov.al/wp-content/uploads/2026/01/Ligji-Nr.107-date.-31.07.2014-Per-planifikimin-dhe-zhvillimin-e-territorit-i-perditesuar.pdf",
+        "https://azht.gov.al/index.php/material-per-llojet-e-lejeve/"
+      ]
+    }
   },
   "referencePages": [
     "https://www.celestia.archi/interior-design-tirane.html",
