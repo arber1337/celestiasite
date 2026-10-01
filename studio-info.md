@@ -78,3 +78,7 @@ Faqja e shërbimit: https://www.celestia.archi/studio-arkitekture-tirane.html
 Structured studio facts: https://www.celestia.archi/studio-info.json
 Terms: https://www.celestia.archi/terms.html
 Privacy: https://www.celestia.archi/privacy.html
+
+## Leje për shtesë kati në Tiranë
+
+[Artikulli dhe pyetjet e shpeshta](https://www.celestia.archi/leje-shtese-kati-tirane.html) shpjegojnë dokumentacionin, kontrollin e kushteve urbanistike dhe hapat në e-Leje. Burimet u kontrolluan më 1 tetor 2026. Oferta për shërbimin përcaktohet sipas objektit dhe kontratës; vendimi merret nga autoriteti kompetent.

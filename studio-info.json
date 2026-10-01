@@ -127,6 +127,12 @@
         "https://azht.gov.al/wp-content/uploads/2026/01/Ligji-Nr.107-date.-31.07.2014-Per-planifikimin-dhe-zhvillimin-e-territorit-i-perditesuar.pdf",
         "https://azht.gov.al/index.php/material-per-llojet-e-lejeve/"
       ]
+    },
+    "floorExtensionGuide": {
+      "language": "sq-AL",
+      "url": "https://www.celestia.archi/leje-shtese-kati-tirane.html",
+      "reviewedAt": "2026-10-01",
+      "topic": "Leje ndërtimi për shtesë kati në Tiranë: dokumentet dhe hapat ligjorë"
     }
   },
   "referencePages": [
@@ -135,6 +141,7 @@
     "https://www.celestia.archi/rikonstruksion-apartamenti.html",
     "https://www.celestia.archi/leje-ndertimi-rikonstruksioni.html",
     "https://www.celestia.archi/projektim-eksterieri-fasada.html",
-    "https://www.celestia.archi/studio-arkitekture-tirane.html"
+    "https://www.celestia.archi/studio-arkitekture-tirane.html",
+    "https://www.celestia.archi/leje-shtese-kati-tirane.html"
   ]
 }
