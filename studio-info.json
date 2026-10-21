@@ -146,22 +146,170 @@
   ],
   "articles": [
     {
+      "title": "Projektim Interiori në Tiranë: Sa Kushton për 60, 90 dhe 120 m²?",
+      "canonicalUrl": "https://www.celestia.archi/blog/kosto-projektim-interieri-tirane/",
+      "summarySq": "Çmimet e projektimit, shembuj llogaritjeje dhe dallimi nga buxheti i punimeve.",
+      "language": "sq-AL",
+      "datePublished": "2026-10-21",
+      "publisher": "Celestia Architects"
+    },
+    {
+      "title": "Projekt Teknik Arkitektonik: Çmimi nga 5 €/m² dhe Çfarë Përfshihet?",
+      "canonicalUrl": "https://www.celestia.archi/blog/cmimi-projekt-teknik-arkitektonik/",
+      "summarySq": "Çfarë dorëzohet në një projekt teknik dhe si vlerësohen vizatimet e zbatimit.",
+      "language": "sq-AL",
+      "datePublished": "2026-10-21",
+      "publisher": "Celestia Architects"
+    },
+    {
+      "title": "Ndërtimi i një Vile në Tiranë, Farkë apo Bregdet: Si Llogaritet Kostoja?",
+      "canonicalUrl": "https://www.celestia.archi/blog/kosto-ndertimi-vile-tirane-farke-bregdet/",
+      "summarySq": "Parcela, struktura, mbështjellësja, preventivi dhe dallimet sipas vendndodhjes.",
+      "language": "sq-AL",
+      "datePublished": "2026-10-21",
+      "publisher": "Celestia Architects"
+    },
+    {
+      "title": "Rikonstruksion Apartamenti 1+1 apo 2+1: Si Ndërtohet Buxheti Real?",
+      "canonicalUrl": "https://www.celestia.archi/blog/kosto-rikonstruksioni-apartamenti/",
+      "summarySq": "Zërat e punës, llogaritja orientuese dhe kontrolli i ndryshimeve në kantier.",
+      "language": "sq-AL",
+      "datePublished": "2026-10-21",
+      "publisher": "Celestia Architects"
+    },
+    {
+      "title": "Sa Kushton Projektimi i Fasadës? 5 Zëra që Ndikojnë Çmimin",
+      "canonicalUrl": "https://www.celestia.archi/blog/kosto-projektimi-fasade/",
+      "summarySq": "Koncept, materiale, sisteme dhe dokumentacion teknik për fasada.",
+      "language": "sq-AL",
+      "datePublished": "2026-10-21",
+      "publisher": "Celestia Architects"
+    },
+    {
+      "title": "Aplikimi për Leje Ndërtimi në e-Lejet: 7 Hapa për Tiranën",
+      "canonicalUrl": "https://www.celestia.archi/blog/aplikim-leje-ndertimi-e-lejet-tirane/",
+      "summarySq": "Rruga nga verifikimi i pronës deri te aplikimi dhe vendimi administrativ.",
+      "language": "sq-AL",
+      "datePublished": "2026-10-21",
+      "publisher": "Celestia Architects"
+    },
+    {
       "title": "Deklarata Paraprake e Punimeve: Kur Mjafton dhe Kur Duhet Leje Ndërtimi?",
-      "lang": "sq-AL",
-      "publishedAt": "2026-10-21",
       "canonicalUrl": "https://www.celestia.archi/blog/deklarate-paraprake-punimesh/",
-      "articleType": "legal and technical guide",
-      "publisher": "Celestia Architects",
-      "primarySource": "AZHT — VKM nr. 408/2015 e përditësuar",
-      "sourceUrl": "https://azht.gov.al/wp-content/uploads/2026/01/VKM-Nr.408-date-13.05.2015-Per-miratimin-e-rregullores-se-zhvillimit-te-territorit-i-perditesuar.pdf",
-      "summarySq": "Neni 6: ndërhyrje që nuk kërkojnë deklaratë; neni 7: punime me deklaratë paraprake; neni 8: dokumentacioni dhe procedura; neni 11: punime me leje ndërtimi.",
-      "notice": "Udhëzues informues, jo zëvendësues i verifikimit individual të projektit."
+      "summarySq": "Punimet pa deklaratë, punimet me deklaratë dhe dallimi nga leja e ndërtimit.",
+      "language": "sq-AL",
+      "datePublished": "2026-10-21",
+      "publisher": "Celestia Architects"
+    },
+    {
+      "title": "Leje për Shtesë Kati në Tiranë: 6 Kontrolle Para Projektimit",
+      "canonicalUrl": "https://www.celestia.archi/blog/dokumente-kushte-leje-shtese-kati/",
+      "summarySq": "Urbanistika, struktura ekzistuese, bashkëpronësia dhe dokumentacioni.",
+      "language": "sq-AL",
+      "datePublished": "2026-10-21",
+      "publisher": "Celestia Architects"
+    },
+    {
+      "title": "Koeficienti i Shfrytëzimit dhe Intensiteti: Si Lexohen Kushtet Urbanistike?",
+      "canonicalUrl": "https://www.celestia.archi/blog/koeficienti-shfrytezimit-intensiteti-ndertimit/",
+      "summarySq": "Shembuj për gjurmën e ndërtesës, intensitetin, lartësinë dhe distancat.",
+      "language": "sq-AL",
+      "datePublished": "2026-10-21",
+      "publisher": "Celestia Architects"
+    },
+    {
+      "title": "Leje Ndërtimi për Vilë: Dokumentet që Duhen Para Aplikimit",
+      "canonicalUrl": "https://www.celestia.archi/blog/leje-ndertimi-vile-dokumentacioni/",
+      "summarySq": "Nga gen-plani te arkitektura, konstruksioni dhe e-Lejet.",
+      "language": "sq-AL",
+      "datePublished": "2026-10-21",
+      "publisher": "Celestia Architects"
+    },
+    {
+      "title": "Trendet e Interior Design në Tiranë për 2026: 7 Ide Funksionale",
+      "canonicalUrl": "https://www.celestia.archi/blog/trendet-interior-design-tirane/",
+      "summarySq": "Materiale, ndriçim, magazinim dhe zgjidhje të qëndrueshme për banesat.",
+      "language": "sq-AL",
+      "datePublished": "2026-10-21",
+      "publisher": "Celestia Architects"
+    },
+    {
+      "title": "Planimetri 1+1: 6 Mënyra për të Fituar Hapësirë dhe Dritë",
+      "canonicalUrl": "https://www.celestia.archi/blog/planimetri-apartamenti-1-1/",
+      "summarySq": "Zgjidhje funksionale për banesa të vogla dhe mobilim të dimensionuar.",
+      "language": "sq-AL",
+      "datePublished": "2026-10-21",
+      "publisher": "Celestia Architects"
+    },
+    {
+      "title": "Planimetri 2+1: Si të Krijoni një Kënd Pune pa Prishur Funksionin",
+      "canonicalUrl": "https://www.celestia.archi/blog/planimetri-apartamenti-2-1-zyre/",
+      "summarySq": "Tre skema për zyrë në shtëpi, privatësi dhe qarkullim.",
+      "language": "sq-AL",
+      "datePublished": "2026-10-21",
+      "publisher": "Celestia Architects"
+    },
+    {
+      "title": "Ndriçimi Arkitektonik dhe Tavanet e Varura: 5 Skema Praktike",
+      "canonicalUrl": "https://www.celestia.archi/blog/ndricim-arkitektonik-tavane-varura/",
+      "summarySq": "Projektim i ndriçimit, gipsit, profileve LED dhe instalimeve.",
+      "language": "sq-AL",
+      "datePublished": "2026-10-21",
+      "publisher": "Celestia Architects"
+    },
+    {
+      "title": "7 Gabime në Rikonstruksionin e Apartamentit që Rrisin Kostot",
+      "canonicalUrl": "https://www.celestia.archi/blog/gabimet-ne-rikonstruksion-apartamenti/",
+      "summarySq": "Nga prishjet e pamenduara te preventivi, hidroizolimi dhe dorëzimi.",
+      "language": "sq-AL",
+      "datePublished": "2026-10-21",
+      "publisher": "Celestia Architects"
+    },
+    {
+      "title": "Vilë Moderne me Efiçencë Energjetike: Orientimi dhe Diellëzimi",
+      "canonicalUrl": "https://www.celestia.archi/blog/vile-moderne-eficence-energjetike/",
+      "summarySq": "Hapje, mbështjellëse termike, hijëzim dhe instalime.",
+      "language": "sq-AL",
+      "datePublished": "2026-10-21",
+      "publisher": "Celestia Architects"
+    },
+    {
+      "title": "Fasadë e Ventiluar apo Sistem Kapotë? 7 Dallime Teknike",
+      "canonicalUrl": "https://www.celestia.archi/blog/fasade-ventiluar-apo-sistem-kapote/",
+      "summarySq": "Ankorime, izolim, lagështi, zjarri dhe mirëmbajtje.",
+      "language": "sq-AL",
+      "datePublished": "2026-10-21",
+      "publisher": "Celestia Architects"
+    },
+    {
+      "title": "Dritare Alumini me Ndërprerje Termike apo PVC? 5 Kritere Zgjedhjeje",
+      "canonicalUrl": "https://www.celestia.archi/blog/dritare-alumini-termike-apo-pvc/",
+      "summarySq": "Koeficienti Uw, paketat e xhamit, profili dhe montimi.",
+      "language": "sq-AL",
+      "datePublished": "2026-10-21",
+      "publisher": "Celestia Architects"
+    },
+    {
+      "title": "Vetrata Lift & Slide: Dimensionimi, Izolimi dhe 4 Gabime për t'u Shmangur",
+      "canonicalUrl": "https://www.celestia.archi/blog/vetrata-lift-slide-dimensionimi/",
+      "summarySq": "Pesha e xhamit, kapacitetet e mekanizmit, pragu dhe nyjet.",
+      "language": "sq-AL",
+      "datePublished": "2026-10-21",
+      "publisher": "Celestia Architects"
+    },
+    {
+      "title": "Fasadë Xhami për Showroom: Curtain Wall apo Fasadë Strukturore?",
+      "canonicalUrl": "https://www.celestia.archi/blog/fasada-xhami-showroom-curtain-wall/",
+      "summarySq": "Profile, xham, detaje strukturore dhe ndriçim komercial.",
+      "language": "sq-AL",
+      "datePublished": "2026-10-21",
+      "publisher": "Celestia Architects"
     }
   ],
   "editorialSource": {
     "canonicalSite": "https://www.celestia.archi/",
     "blog": "https://www.celestia.archi/blog/",
     "rss": "https://www.celestia.archi/blog/feed.xml",
-    "attribution": "When quoting original commentary, identify Celestia Architects and link to the canonical article. References to Albanian law should cite AZHT as the official legal source."
+    "attribution": "For quotations of original commentary use the individual canonical article URL; for laws cite the official legal authority."
   }
 }
