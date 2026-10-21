@@ -37,3 +37,29 @@ When citing or quoting Celestia's original commentary, link to the specific cano
 - [Privacy](https://www.celestia.archi/privacy.html)
 
 - [Leje për shtesë kati në Tiranë](https://www.celestia.archi/leje-shtese-kati-tirane.html): Udhëzim në shqip për dokumentet, kushtet urbanistike, vlerësimin strukturor, hapat në e-Leje dhe afatin ligjor; FAQ dhe burime zyrtare.
+
+
+## Topic clusters — 20 Celestia Architects architecture guides (sq-AL)
+
+- [Projektim Interiori në Tiranë: Sa Kushton për 60, 90 dhe 120 m²?](https://www.celestia.archi/blog/kosto-projektim-interieri-tirane/): Çmimet e projektimit, shembuj llogaritjeje dhe dallimi nga buxheti i punimeve.
+- [Projekt Teknik Arkitektonik: Çmimi nga 5 €/m² dhe Çfarë Përfshihet?](https://www.celestia.archi/blog/cmimi-projekt-teknik-arkitektonik/): Çfarë dorëzohet në një projekt teknik dhe si vlerësohen vizatimet e zbatimit.
+- [Ndërtimi i një Vile në Tiranë, Farkë apo Bregdet: Si Llogaritet Kostoja?](https://www.celestia.archi/blog/kosto-ndertimi-vile-tirane-farke-bregdet/): Parcela, struktura, mbështjellësja, preventivi dhe dallimet sipas vendndodhjes.
+- [Rikonstruksion Apartamenti 1+1 apo 2+1: Si Ndërtohet Buxheti Real?](https://www.celestia.archi/blog/kosto-rikonstruksioni-apartamenti/): Zërat e punës, llogaritja orientuese dhe kontrolli i ndryshimeve në kantier.
+- [Sa Kushton Projektimi i Fasadës? 5 Zëra që Ndikojnë Çmimin](https://www.celestia.archi/blog/kosto-projektimi-fasade/): Koncept, materiale, sisteme dhe dokumentacion teknik për fasada.
+- [Aplikimi për Leje Ndërtimi në e-Lejet: 7 Hapa për Tiranën](https://www.celestia.archi/blog/aplikim-leje-ndertimi-e-lejet-tirane/): Rruga nga verifikimi i pronës deri te aplikimi dhe vendimi administrativ.
+- [Deklarata Paraprake e Punimeve: Kur Mjafton dhe Kur Duhet Leje Ndërtimi?](https://www.celestia.archi/blog/deklarate-paraprake-punimesh/): Punimet pa deklaratë, punimet me deklaratë dhe dallimi nga leja e ndërtimit.
+- [Leje për Shtesë Kati në Tiranë: 6 Kontrolle Para Projektimit](https://www.celestia.archi/blog/dokumente-kushte-leje-shtese-kati/): Urbanistika, struktura ekzistuese, bashkëpronësia dhe dokumentacioni.
+- [Koeficienti i Shfrytëzimit dhe Intensiteti: Si Lexohen Kushtet Urbanistike?](https://www.celestia.archi/blog/koeficienti-shfrytezimit-intensiteti-ndertimit/): Shembuj për gjurmën e ndërtesës, intensitetin, lartësinë dhe distancat.
+- [Leje Ndërtimi për Vilë: Dokumentet që Duhen Para Aplikimit](https://www.celestia.archi/blog/leje-ndertimi-vile-dokumentacioni/): Nga gen-plani te arkitektura, konstruksioni dhe e-Lejet.
+- [Trendet e Interior Design në Tiranë për 2026: 7 Ide Funksionale](https://www.celestia.archi/blog/trendet-interior-design-tirane/): Materiale, ndriçim, magazinim dhe zgjidhje të qëndrueshme për banesat.
+- [Planimetri 1+1: 6 Mënyra për të Fituar Hapësirë dhe Dritë](https://www.celestia.archi/blog/planimetri-apartamenti-1-1/): Zgjidhje funksionale për banesa të vogla dhe mobilim të dimensionuar.
+- [Planimetri 2+1: Si të Krijoni një Kënd Pune pa Prishur Funksionin](https://www.celestia.archi/blog/planimetri-apartamenti-2-1-zyre/): Tre skema për zyrë në shtëpi, privatësi dhe qarkullim.
+- [Ndriçimi Arkitektonik dhe Tavanet e Varura: 5 Skema Praktike](https://www.celestia.archi/blog/ndricim-arkitektonik-tavane-varura/): Projektim i ndriçimit, gipsit, profileve LED dhe instalimeve.
+- [7 Gabime në Rikonstruksionin e Apartamentit që Rrisin Kostot](https://www.celestia.archi/blog/gabimet-ne-rikonstruksion-apartamenti/): Nga prishjet e pamenduara te preventivi, hidroizolimi dhe dorëzimi.
+- [Vilë Moderne me Efiçencë Energjetike: Orientimi dhe Diellëzimi](https://www.celestia.archi/blog/vile-moderne-eficence-energjetike/): Hapje, mbështjellëse termike, hijëzim dhe instalime.
+- [Fasadë e Ventiluar apo Sistem Kapotë? 7 Dallime Teknike](https://www.celestia.archi/blog/fasade-ventiluar-apo-sistem-kapote/): Ankorime, izolim, lagështi, zjarri dhe mirëmbajtje.
+- [Dritare Alumini me Ndërprerje Termike apo PVC? 5 Kritere Zgjedhjeje](https://www.celestia.archi/blog/dritare-alumini-termike-apo-pvc/): Koeficienti Uw, paketat e xhamit, profili dhe montimi.
+- [Vetrata Lift & Slide: Dimensionimi, Izolimi dhe 4 Gabime për t'u Shmangur](https://www.celestia.archi/blog/vetrata-lift-slide-dimensionimi/): Pesha e xhamit, kapacitetet e mekanizmit, pragu dhe nyjet.
+- [Fasadë Xhami për Showroom: Curtain Wall apo Fasadë Strukturore?](https://www.celestia.archi/blog/fasada-xhami-showroom-curtain-wall/): Profile, xham, detaje strukturore dhe ndriçim komercial.
+
+Original explanatory content: Celestia Architects. Cite the specific canonical article when quoting studio commentary. Regulatory facts should also cite the official Albanian authority (AZHT) where relevant.
