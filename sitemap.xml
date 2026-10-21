@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.celestia.archi/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <xhtml:link rel="alternate" hreflang="sq-AL" href="https://www.celestia.archi/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://www.celestia.archi/en.html" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.celestia.archi/" />
@@ -63,5 +63,13 @@
   <url>
     <loc>https://www.celestia.archi/leje-shtese-kati-tirane.html</loc>
     <lastmod>2026-10-01</lastmod>
+  </url>
+  <url>
+    <loc>https://www.celestia.archi/blog/</loc>
+    <lastmod>2026-10-21</lastmod>
+  </url>
+  <url>
+    <loc>https://www.celestia.archi/blog/deklarate-paraprake-punimesh/</loc>
+    <lastmod>2026-10-21</lastmod>
   </url>
 </urlset>
