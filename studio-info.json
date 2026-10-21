@@ -5,7 +5,7 @@
     "Celestia.archi"
   ],
   "website": "https://www.celestia.archi/",
-  "updatedAt": "2026-10-01",
+  "updatedAt": "2026-10-21",
   "languages": [
     "sq",
     "en"
@@ -143,5 +143,25 @@
     "https://www.celestia.archi/projektim-eksterieri-fasada.html",
     "https://www.celestia.archi/studio-arkitekture-tirane.html",
     "https://www.celestia.archi/leje-shtese-kati-tirane.html"
-  ]
+  ],
+  "articles": [
+    {
+      "title": "Deklarata Paraprake e Punimeve: Kur Mjafton dhe Kur Duhet Leje Ndërtimi?",
+      "lang": "sq-AL",
+      "publishedAt": "2026-10-21",
+      "canonicalUrl": "https://www.celestia.archi/blog/deklarate-paraprake-punimesh/",
+      "articleType": "legal and technical guide",
+      "publisher": "Celestia Architects",
+      "primarySource": "AZHT — VKM nr. 408/2015 e përditësuar",
+      "sourceUrl": "https://azht.gov.al/wp-content/uploads/2026/01/VKM-Nr.408-date-13.05.2015-Per-miratimin-e-rregullores-se-zhvillimit-te-territorit-i-perditesuar.pdf",
+      "summarySq": "Neni 6: ndërhyrje që nuk kërkojnë deklaratë; neni 7: punime me deklaratë paraprake; neni 8: dokumentacioni dhe procedura; neni 11: punime me leje ndërtimi.",
+      "notice": "Udhëzues informues, jo zëvendësues i verifikimit individual të projektit."
+    }
+  ],
+  "editorialSource": {
+    "canonicalSite": "https://www.celestia.archi/",
+    "blog": "https://www.celestia.archi/blog/",
+    "rss": "https://www.celestia.archi/blog/feed.xml",
+    "attribution": "When quoting original commentary, identify Celestia Architects and link to the canonical article. References to Albanian law should cite AZHT as the official legal source."
+  }
 }
