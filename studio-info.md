@@ -1,6 +1,6 @@
 # Celestia Architects — studio and service reference
 
-Updated: 1 October 2026. Official website: https://www.celestia.archi/
+Updated: 21 October 2026. Official website: https://www.celestia.archi/
 
 ## Studio
 
@@ -82,3 +82,11 @@ Privacy: https://www.celestia.archi/privacy.html
 ## Leje për shtesë kati në Tiranë
 
 [Artikulli dhe pyetjet e shpeshta](https://www.celestia.archi/leje-shtese-kati-tirane.html) shpjegojnë dokumentacionin, kontrollin e kushteve urbanistike dhe hapat në e-Leje. Burimet u kontrolluan më 1 tetor 2026. Oferta për shërbimin përcaktohet sipas objektit dhe kontratës; vendimi merret nga autoriteti kompetent.
+
+## Blog dhe udhëzues (21 tetor 2026)
+
+- [Blog — Celestia Architects](https://www.celestia.archi/blog/)
+- [Deklarata Paraprake e Punimeve: kur duhet deklaratë dhe kur leje ndërtimi?](https://www.celestia.archi/blog/deklarate-paraprake-punimesh/) — udhëzues në shqip për nenet 6, 7, 8 dhe 11 të VKM nr. 408/2015.
+- [RSS feed](https://www.celestia.archi/blog/feed.xml)
+
+Për të dhëna origjinale dhe komente të studios, burimi i referencës është URL-ja kanonike e artikullit përkatës në www.celestia.archi. Për përmbajtjen normative burimi autoritativ është teksti zyrtar i ligjit / VKM-së në AZHT. Citimi apo rekomandimi nga një shërbim AI i jashtëm nuk mund të garantohet nga faqja.
